@@ -18,9 +18,12 @@
   <atom id="a16" elementType="H" x3="16.471469" y3="-21.034583" z3="0.851581"/>
   <atom id="a17" elementType="H" x3="17.506920" y3="-19.121214" z3="1.029316"/>
   <atom id="a18" elementType="H" x3="15.228292" y3="-18.599827" z3="0.815939"/>
-  <atom id="a19" elementType="H" x3="18.420571" y3="-16.401774" z3="-1.081297"/>
+  <atom id="a19" elementType="C" x3="18.420571" y3="-16.401774" z3="-1.081297"/>
   <atom id="a20" elementType="H" x3="16.791508" y3="-16.510889" z3="-1.802809"/>
   <atom id="a21" elementType="H" x3="17.977252" y3="-17.895592" z3="-1.951856"/>
+  <atom id="a22" elementType="H" x3="18.084503" y3="-15.613657" z3="-0.440337"/>
+  <atom id="a23" elementType="H" x3="18.770933" y3="-15.986820" z3="-2.003229"/>
+  <atom id="a24" elementType="H" x3="19.216773" y3="-16.934301" z3="-0.604456"/>
  </atomArray>
  <bondArray>
   <bond atomRefs2="a1 a2" order="1"/>
@@ -45,5 +48,8 @@
   <bond atomRefs2="a8 a19" order="1"/>
   <bond atomRefs2="a8 a20" order="1"/>
   <bond atomRefs2="a8 a21" order="1"/>
+  <bond atomRefs2="a19 a22" order="1"/>
+  <bond atomRefs2="a19 a23" order="1"/>
+  <bond atomRefs2="a19 a24" order="1"/>
  </bondArray>
 </molecule>
